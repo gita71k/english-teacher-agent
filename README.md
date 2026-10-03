@@ -1,26 +1,16 @@
 # English Teacher Agent
 
-A simple AI-powered English teacher built with Python and the OpenAI API.
+A simple AI English teacher built with Python and the OpenAI API.
 
-## What it does
+## Features
 
-The agent takes an English sentence or short text and provides:
+- Explains meaning
+- Teaches vocabulary
+- Explains grammar
+- Gives examples
+- Creates practice questions
 
-- A simple explanation of the meaning
-- Important vocabulary
-- Grammar explanations
-- Example sentences
-- Practice questions
-
-## Technologies
-
-- Python
-- OpenAI API
-- python-dotenv
-
-## How to run
-
-1. Create a virtual environment:
+## Run
 
 ```bash
-python3 -m venv .venv
+python main.py
